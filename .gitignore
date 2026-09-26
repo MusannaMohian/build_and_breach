@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Build & Breach lab files
+*.pcap
+*.iso
+*.vmdk
+*.ova
